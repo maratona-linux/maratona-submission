@@ -6,6 +6,5 @@ Build-Depends: debhelper
 
 Package: maratona-submission
 Architecture: all
-Pre-Depends: maratona-firewall
-Depends: boca-submission-tools
+Depends: maratona-firewall, boca-submission-tools
 Description: Pacote com o ambiente de submissão para o Boca central
