@@ -1,4 +1,0 @@
-#!/bin/bash
-
-#Colocar a Bombonera como o BOCA
-/usr/sbin/config-ip-boca 50.116.19.221 -f
