@@ -1,4 +1,4 @@
-#Maratona Linux
+# Maratona Linux
 
 Este repositório trata do pacote maratona-submission do Maratona Linux.
 
@@ -11,7 +11,7 @@ dos competidores da Maratona de Programação no Brasil.
 Este pacote possui os scripts que dão suporte ao competidor na submissão de
 soluções ao BOCA.
 
-#Instalação
+# Instalação
 
 Todos os pacotes estão disponíveis no PPA:
 https://launchpad.net/~brunoribas/+archive/ubuntu/ppa-maratona
