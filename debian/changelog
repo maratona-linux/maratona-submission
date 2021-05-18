@@ -1,3 +1,10 @@
+maratona-submission (20210517) focal; urgency=medium
+
+  * Update .gitignore
+  * Bump compat from 7 to 12
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Mon, 17 May 2021 23:08:58 -0300
+
 maratona-submission (20180826) bionic; urgency=medium
 
   * Bump to ubuntu bionic

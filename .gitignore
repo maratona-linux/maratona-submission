@@ -1,0 +1,5 @@
+debian/.debhelper/
+debian/files
+debian/maratona-submission.debhelper.log
+debian/maratona-submission.substvars
+debian/maratona-submission/
