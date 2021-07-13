@@ -1,10 +1,15 @@
 Source: maratona-submission
 Section: misc
 Priority: optional
-Maintainer: Bruno Ribas <brunoribas@utfpr.edu.br>
+Maintainer: Bruno César Ribas <bruno.ribas@unb.br>
 Build-Depends: debhelper-compat (= 12)
+Vcs-Git: https://github.com/maratona-linux/maratona-submission.git
+Vcs-Browser: https://github.com/maratona-linux/maratona-submission
 
 Package: maratona-submission
 Architecture: all
 Depends: maratona-firewall, boca-submission-tools, maratona-usuario-icpc
 Description: Pacote com o ambiente de submissão para o Boca central
+ Este pacote instala dependências que modificam o sistema base do Ubuntu,
+ instalando um usuário específico para o Maratona, restringindo o tráfego de
+ rede e configurando o ambiente de submissão de soluções.

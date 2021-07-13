@@ -1,3 +1,15 @@
+maratona-submission (20210517.1) focal; urgency=medium
+
+  * Remove and ignore build artifacts
+  * Update maintainer, description and add VCS info
+    - updates maintainer's name and email
+    - adds VCS details
+    - adds extended description (fixes error extended-description-is-empty,
+      see issue #2 for more details)
+  * Update machine-readable copyright file
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Mon, 28 Jun 2021 21:09:05 -0300
+
 maratona-submission (20210517) focal; urgency=medium
 
   * Update .gitignore
