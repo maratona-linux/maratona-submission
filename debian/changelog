@@ -1,3 +1,9 @@
+maratona-submission (20230113) jammy; urgency=medium
+
+  * Update copyright's years
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Sat, 14 Jan 2023 00:21:01 -0300
+
 maratona-submission (20220517) jammy; urgency=medium
 
   * Bump debhelper compat from 12 to 13
