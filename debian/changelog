@@ -1,3 +1,10 @@
+maratona-submission (20240530) noble; urgency=medium
+
+  * Migrate package to Ubuntu noble 24.04
+  * Change package format from implicit 1.0 to 3.0 native
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Mon, 17 Jun 2024 22:47:48 -0300
+
 maratona-submission (20230113) jammy; urgency=medium
 
   * Update copyright's years
